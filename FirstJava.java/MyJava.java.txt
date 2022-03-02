@@ -1,0 +1,6 @@
+class Test{
+ void m1(){
+
+Sysout("Hello ");
+}
+}
